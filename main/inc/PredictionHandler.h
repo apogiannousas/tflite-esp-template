@@ -1,6 +1,7 @@
 #pragma once
 
 #include "PredictionInterpreter.h"
+#include <iostream>
 
 class PredictionHandler {
  public:
